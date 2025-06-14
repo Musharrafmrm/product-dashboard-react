@@ -206,5 +206,5 @@ Modify Tailwind classes or extend the design system in `tailwind.config.ts`
 ### 🙋 Author
 
 - M.R.M Musharraf
-- React Developer Intern Candidate
+- React Developer Associate Candidate
 - GitHub Profile - https://github.com/Musharrafmrm
